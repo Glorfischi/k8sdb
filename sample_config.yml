@@ -1,0 +1,17 @@
+postgres:
+
+  postgres-prod:
+    User: "blub"
+    Password: "blub"
+    Host: "localhost"
+    Port: 5432
+    EnableSSL: false
+    Production: true
+
+  postgres-stage:
+    User: "blub"
+    Password: "blub"
+    Host: "localhost"
+    Port: 5432
+    EnableSSL: false
+    Production: false

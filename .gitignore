@@ -1,0 +1,5 @@
+snippets/
+.idea/
+*.lock
+config.*
+vendor/
